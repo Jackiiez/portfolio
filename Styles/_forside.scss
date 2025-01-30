@@ -70,5 +70,18 @@ body{
     text-align: center;
     margin: 0 auto;
     }
+    footer{
+        display: grid
+        ;
+            justify-content: space-around;
+    }
+    ul{
+        display: grid
+        ;
+            grid-auto-flow: column;
+            list-style: none;
+            text-align: center;
+            gap: 3rem;
+    }
     
 
