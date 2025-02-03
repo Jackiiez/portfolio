@@ -10,6 +10,13 @@ li,p,a, h1,h2,h3{
     color: white;
 
 }
+h2{
+    text-align: center;
+    transition: .3s;
+}
+h2:hover{
+    transform: scale(1.07); 
+}
 li,p,a :hover{
     color: #900707;
     
