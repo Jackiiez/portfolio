@@ -20,6 +20,7 @@ li {
 
 li:hover {
   transform: scale(1.07);
+  color: #900707;
 }
 
 li, p, a :hover {
