@@ -12,10 +12,13 @@ li, p, a, h1, h2, h3 {
 
 h2 {
   text-align: center;
+}
+
+li {
   transition: 0.3s;
 }
 
-h2:hover {
+li:hover {
   transform: scale(1.07);
 }
 
