@@ -6,11 +6,11 @@
   scroll-behavior: smooth;
 }
 
-p, a, h1, h2, h3 {
+li, p, a, h1, h2, h3 {
   color: white;
 }
 
-p, a :hover {
+li, p, a :hover {
   color: #900707;
 }
 
