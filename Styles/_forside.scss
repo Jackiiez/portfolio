@@ -10,31 +10,28 @@ h1 {
     font-size: 4rem;
     margin-bottom: 2%;
 }
-li,p,a, h1,h2,h3{
+p{
+    max-width: 70%;
+    margin: 0 auto;
+    color: white;
+}
+li,a, h1,h2,h3{
     color: white;
     font-family: 'Poppins', sans-serif;
 }
 h2{
     text-align: center;
-   margin-top: 3%;
+   padding-top: 3%;
+   width: 20%;
+   margin: 0 auto;
+   margin-bottom: 3%;
+   padding-bottom: 1%;
+   border-bottom: 2px solid white;
 }
 li{
      transition: .3s;
 }
-a:hover{
-    color: #900707;
-}
-li:hover{
-    transform: scale(1.07); 
-    color: #900707;
-}
-li,p,a :hover{
-    color: #900707;
-    
-}
-h3:hover{
-    color: #900707;  
-}
+
 h1{
     text-align: center;
 }
