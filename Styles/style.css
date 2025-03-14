@@ -18,7 +18,7 @@ p {
   color: white;
 }
 
-li, a, h1, h2, h3 {
+p li, a, h1, h2, h3 {
   color: white;
   font-family: "Poppins", sans-serif;
 }
@@ -148,7 +148,7 @@ footer {
   }
   h3 {
     border-bottom: 2px solid white;
-
+    width: 50%;
     margin-bottom: 5%;
   }
 }/*# sourceMappingURL=style.css.map */
