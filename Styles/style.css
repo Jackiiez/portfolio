@@ -130,6 +130,9 @@ footer {
 }
 /* Telefon  */
 @media screen and (max-width: 480px) {
+  .aboutme p {
+    padding-bottom: 2%;
+  }
   .main-section img {
     max-width: 70%;
     max-height: 50%;
@@ -151,6 +154,7 @@ footer {
     border-bottom: 2px solid white;
     width: 50%;
     margin-bottom: 5%;
+    text-align: center;
   }
   h2 {
     width: 100%;
