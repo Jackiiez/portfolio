@@ -154,4 +154,7 @@ footer {
   h2 {
     width: 100%;
   }
+  ul {
+    gap: 1rem;
+  }
 }/*# sourceMappingURL=style.css.map */
